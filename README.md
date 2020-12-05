@@ -8,7 +8,7 @@ scalar DateTime
 
 input DateTimeFilter {
     eq: DateTime
-    le: DateTimes
+    le: DateTime
     lt: DateTime
     ge: DateTime
     gt: DateTime
