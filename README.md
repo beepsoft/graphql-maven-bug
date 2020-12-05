@@ -1,5 +1,7 @@
 # Demonstrates compilation error with graphql-maven-plugin
 
+https://github.com/graphql-java-generator/graphql-maven-plugin-project/issues/54
+
 Using this graphql schema:
 
 ```graphql
